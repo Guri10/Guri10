@@ -1,22 +1,100 @@
-# 👋 Hi, I'm Atharva Rajesh Gurav
+Nice starting README — but it’s **outdated relative to how strong your profile is now**. Below is a **clean, modern GitHub profile README** rewritten to match your **current resume**, your SWE + ML systems positioning, and what recruiters expect in 2026.
 
-![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
+You can **copy–paste this directly** into `README.md` on your GitHub profile.
 
-I'm a Master's student in Computer Science at Indiana University, passionate about software development, data science, and machine learning. With a solid foundation from my Bachelor's at Dr. Vishwanath Karad MIT World Peace University, I'm driven by the power of data and technology to solve complex problems.
+---
 
-🔭 I've contributed to cutting-edge projects, such as enhancing an Energy Planning System prototype to significantly reduce energy costs for construction firms and developing a fully functional SimCity game replica in just 7 days. My work in Deepfake Audio Detection with XAI has achieved a remarkable 91.5% accuracy, showcasing my ability to blend technical expertise with innovative solutions.
+# 👋 Hi, I’m Atharva Gurav
 
-💡 I'm intrigued by the power of data to transform industries and am always on the lookout for challenging projects that push the boundaries of what's possible with technology.
+I’m a **Software Engineer** with a strong focus on **data systems, backend engineering, and production AI/ML systems**. I recently completed my **MS in Computer Science at Indiana University Bloomington**, where I combined solid CS fundamentals with hands-on experience building scalable, real-world systems.
 
-👨‍💻 My GitHub is a reflection of my journey in the tech world, featuring projects from Employee Attrition Prediction using PySpark and MongoDB to impactful analysis on the Post-Covid health of patients using Machine Learning and Data Visualization.
+I enjoy working close to the system boundary — thinking about **performance, reliability, evaluation, and tradeoffs** — and shipping solutions that hold up in production.
 
-🌱 I'm currently diving deeper into Computer Vision and Genetic Algorithms, aiming to leverage these technologies for sustainable and efficient solutions.
+---
 
+## 🧠 What I Work On
 
+* **Data & Platform Engineering**
+  Designing and deploying Spark / Databricks pipelines, ingestion workflows, caching layers, and backend services with clear throughput, cost, and fault-tolerance goals.
 
-## 📫 How to reach me
-- **Email**: atharvagurav01@gmail.com
-- **LinkedIn**: [LinkedIn_Profile](https://www.linkedin.com/in/atharva-gurav-505124204/)
+* **Production AI & ML Systems**
+  Building NLP and ML systems end to end — from training and evaluation to deployment, monitoring, and iteration.
 
-Feel free to connect with me for collaborations or just a chat about the latest in tech and innovation.
+* **Retrieval & Search Systems**
+  Developing RAG pipelines, vector indexing, semantic search, and ranking systems over large document corpora.
 
+* **Backend & API Development**
+  Shipping FastAPI / Flask services with batching, caching, observability, and clean interfaces for downstream users.
+
+---
+
+## 🚀 Selected Projects
+
+### **QueryGenie — RAG System for Research Papers**
+
+* Built a retrieval-augmented QA system over **10K+ documents**
+* Improved **Recall@5 from 0.62 → 0.87** using HNSW indexing and cross-encoder reranking
+* Deployed with FastAPI, Redis caching, and Docker
+* Focused on latency, memory efficiency, and cost optimization
+
+### **AgentLoop — Autonomous AI Agent Framework**
+
+* Designed a tool-using agent with a structured **plan → act → observe → reflect** loop
+* Achieved **19/20 task success** with validation, retries, and timeouts
+* Published to **PyPI** with logging, tracing, and documented failure modes
+
+### **Neural Machine Translation System**
+
+* Trained Transformer models on **50K sentence pairs**
+* Improved BLEU score from **28.4 → 32.7**
+* Implemented beam search decoding and deployed an inference API
+
+---
+
+## 🧑‍💼 Experience Highlights
+
+* **Software Engineer – ML & Data Systems (Contract)**
+  Built Spark SQL ingestion pipelines on Databricks, evaluation frameworks, and batch / near-real-time workflows with caching and idempotent writes.
+
+* **Computer Vision Research Assistant**
+  Trained and deployed 3D point cloud models (PointNet++, KPConv), built annotation tooling, and shipped inference APIs for large-scale datasets.
+
+* **Software Engineer – ML Systems**
+  Developed multimodal NLP systems, fine-tuned large models, and engineered data pipelines processing **100K+ records**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+Python, SQL, FastAPI, Flask, Django, JavaScript
+
+**Data & Distributed Systems**
+Spark (PySpark, Spark SQL), Databricks, Data Pipelines, Distributed Processing, Redis
+
+**AI / ML**
+PyTorch, TensorFlow, Transformers, scikit-learn, NLP, RAG, Model Evaluation
+
+**Production & Cloud**
+Docker, Git, CI/CD, AWS, GCP, MLflow, Weights & Biases
+
+---
+
+## 📌 What I’m Interested In
+
+* Software Engineering (Backend / Full Stack)
+* Data, Platform, and Infrastructure roles
+* Production-focused AI / ML Engineering
+
+I’m especially excited by teams building **systems, platforms, and developer-facing tools** that scale to real users.
+
+---
+
+## 📫 Let’s Connect
+
+* **Email:** [atharvagurav01@gmail.com](mailto:atharvagurav01@gmail.com)
+* **LinkedIn:** [linkedin.com/in/atharvagurav01](https://www.linkedin.com/in/atharvagurav01)
+
+Always open to conversations about engineering, systems, and building things that matter.
+
+---
