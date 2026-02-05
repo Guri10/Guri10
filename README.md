@@ -1,8 +1,3 @@
-Nice starting README — but it’s **outdated relative to how strong your profile is now**. Below is a **clean, modern GitHub profile README** rewritten to match your **current resume**, your SWE + ML systems positioning, and what recruiters expect in 2026.
-
-You can **copy–paste this directly** into `README.md` on your GitHub profile.
-
----
 
 # 👋 Hi, I’m Atharva Gurav
 
